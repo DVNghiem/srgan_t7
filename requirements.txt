@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-cors-headers
+tensorflow==2.3
+matplotlib
+opencv-python
+uwsgi
